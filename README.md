@@ -1,2 +1,2 @@
 # MCP-test
-feat.개발동생
+test day 1
